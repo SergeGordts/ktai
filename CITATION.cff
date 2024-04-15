@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: KTAI BERT sentiment analysis on movie reviews
+message: >-
+  You can use the Bert.ipynb notebook for the analysis and
+  the env.yml to create the necessary conda environment.
+type: software
+authors:
+  - given-names: 'Serge '
+    family-names: Gordts
+  - given-names: Michael
+    family-names: Lockhorst
+repository-code: 'https://github.com/SergeGordts/ktai'
+abstract: BERT sentiment analysis strengths and weaknesses
+keywords:
+  - sentiment analysis
+  - BERT model
+  - Jupyter notebook
+license: MIT
+date-released: '2024-04-15'

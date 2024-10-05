@@ -19,12 +19,14 @@ our dataset (further elucidated subsequently), facilitating the
 computation of accuracy and F1 scores.
 
 Research Questions
+
 1. How does PE impact the effectiveness and accuracy of
 BERT for sentiment analysis tasks?
 2. What are the strengths and weaknesses of BERT when
 applying prompt engineering for sentiment analysis?
 
 Discussion
+
 The prompt-engineering steps (apart from the articulation
 of the instruction) in this project led to no improvement in the
 sentiment classification. This is due to the limitations of the
